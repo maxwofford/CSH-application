@@ -7,11 +7,11 @@ Preferably typed, on a separate Sheet of paper. The point of the application is
 for us to get a better idea of who you are, so please answer the questions to
 best reflect that.
 
-Name:
+Name: Max Wofford
 
-Major:
+Major: Software Engineering
 
-E-mail:
+E-mail: [redacted]
 
 1. What do you expect to gain from Computer Science House? What would you like
    to learn?
