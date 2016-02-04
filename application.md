@@ -17,7 +17,7 @@ E-mail: [redacted]
    to learn?
 2. Name and describe, in detail, the most enriching experience you have ever
    had. This could be a project, an activity, or anything else.
-3. How could you contribute to the ho 7 (qualities about yourself, your skills,
+3. How could you contribute to the house (qualities about yourself, your skills,
    etc.)
 4. In your free time, what do you like to do? (Clubs, activities, hobbies,
    classes you really liked, etc.)
