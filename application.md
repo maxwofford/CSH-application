@@ -24,6 +24,11 @@ E-mail: [redacted]
 5. Create a question that you would like to answer on this application. Give us
    the question and your answer.
 
+   Q: Please tell us something surprising or amusing that you have discovered.
+   (From YCombinator Winter 2015 application)
+
+   A:
+
 After returning your application, you will be interviewed. Interviews usually
 aren't scheduled but are done immediately upon you handing your application to
 the Evals Director or, if the Evals Director isn't available then, later when
