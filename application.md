@@ -17,6 +17,15 @@ E-mail: [redacted]
    to learn?
 2. Name and describe, in detail, the most enriching experience you have ever
    had. This could be a project, an activity, or anything else.
+
+   My focus at RIT is to get better at interacting with people. I have a few
+   practices to ensure I stay on track with my goal. For instance, every time I
+   eat at Gracie's (~10 times per week), I have a 15 minute conversation with
+   someone.
+
+   Highlights of the experience include chatting with an on-break staff member
+   and getting pitched by a founder about a position in their marketing company.
+
 3. How could you contribute to the house (qualities about yourself, your skills,
    etc.)
 4. In your free time, what do you like to do? (Clubs, activities, hobbies,
